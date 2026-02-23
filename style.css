@@ -36,14 +36,12 @@ body{
   padding: 12px 0;
 }
 
-/* Left column (labels) */
 .nutrition td:first-child {
   color: #555;
 }
 
-/* Right column (values) */
 .nutrition td:last-child {
   text-align: right;
   font-weight: 700;
-  color: #7a3e2e;   /* Brown accent like design */
+  color: #7a3e2e;
 }
