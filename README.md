@@ -6,16 +6,14 @@ This project involved recreating a responsive recipe layout based on provided de
 
 ![Recipe Page Screenshot](./screenshot.jpg)
 
-🔗 Links
+Links
 
-Solution URL: https://www.frontendmentor.io/solutions/your-solution-link
+Solution URL: https://www.frontendmentor.io/solutions/single-page-recipe-app-created-with-html-css-and-vs-code-dfGf-Oj5WY
 
-Live Site URL: https://your-live-site-link.com
-
-(Replace with your actual links)
+Live Site URL: https://recipe-page-main-git-main-fortunengilis-projects.vercel.app/
 
 # My process
-🛠 Built with
+Built with
 
 Semantic HTML5 markup
 
@@ -28,41 +26,21 @@ Flexbox layout
 
 This challenge reinforced several foundational frontend concepts:
 
-✔ Proper content structuring using semantic HTML
-✔ The importance of container-based layouts
-✔ Centering strategies using Flexbox
-✔ Correct table markup and alignment techniques
-✔ Spacing consistency and visual hierarchy
-
-One key correction involved fixing improper table structure. Initially, rows were incorrectly defined without table data cells. The proper implementation:
-
-<table>
-  <tr>
-    <td>Calories</td>
-    <td>277kcal</td>
-  </tr>
-</table>
-
-This highlighted how browsers interpret table layouts strictly based on valid HTML hierarchy.
-
-Another important improvement involved centering the card layout using Flexbox:
-
-body{
-  display: flex;
-  justify-content: center;
-}
-
-This created predictable layout behavior across screen sizes.
+* Proper content structuring using semantic HTML
+* The importance of container-based layouts
+* Centering strategies using Flexbox
+* Correct table markup and alignment techniques
+* Spacing consistency and visual hierarchy
 
 # Continued development
 
 Going forward, I plan to focus on:
 
-✔ Improving responsive layout precision
-✔ Refining spacing systems and typography scales
-✔ Building reusable UI components
-✔ Strengthening CSS architecture practices
-✔ Expanding into component-driven frameworks
+* Improving responsive layout precision
+* Refining spacing systems and typography scales
+* Building reusable UI components
+* Strengthening CSS architecture practices
+* Expanding into component-driven frameworks
 
 # Useful resources
 
